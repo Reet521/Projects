@@ -33,6 +33,6 @@ This project involved a detailed analysis of carbon emissions in new energy vehi
 - Conducted a case study that reduced emissions by 41% in A-class vehicles.
 - Developed methodologies for baseline and project emission calculations.
 - Proposed government strategies and technological advancements to support emission reduction efforts.
-[View Project Details](https://github.com/Reet521/Projects/blob/main/seminar%20report.docx)      [PPT]
+[View Project Details](https://github.com/Reet521/Projects/blob/main/seminar%20report.docx)      [PPT](https://github.com/Reet521/Projects/blob/main/Seminar3.2.pptx)
 
 
