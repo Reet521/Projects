@@ -4,7 +4,7 @@
 Welcome to my projects portfolio! This repository highlights some of the key projects I have worked on during my internships and academic career. Each project includes a brief overview, technical details, and links to the code, documentation, or other relevant materials.
 ---
 
-## ⚙️ **3. Fuzzy Logic in Automatic Braking Systems**
+## ⚙️ **1. Fuzzy Logic in Automatic Braking Systems**
 **Role**: Academic Project  
 **Duration**: March 2024 - April 2024  
 **Technologies**: Fuzzy Logic, Mamdani Inference System
