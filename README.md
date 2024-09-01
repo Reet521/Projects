@@ -17,7 +17,7 @@ In this academic project, I developed and optimized a fuzzy logic-based automati
 - Achieved a deceleration value of 49.22 cm/s² at a speed of 63 cm/sec.
 - Gained hands-on experience in fuzzy logic applications in automotive systems.
 
-[View Project Details](https://github.com/Reet521/Projects/blob/main/fuzzy%20term%20paper%5B1%5D.docx) [PPT](https://github.com/Reet521/Projects/blob/main/Fuzzy%20logic%20project%202023.pptx.pptx)
+[View Project Details](https://github.com/Reet521/Projects/blob/main/fuzzy%20term%20paper%5B1%5D.docx)       [PPT](https://github.com/Reet521/Projects/blob/main/Fuzzy%20logic%20project%202023.pptx.pptx)
 
 ---
 
@@ -33,6 +33,6 @@ This project involved a detailed analysis of carbon emissions in new energy vehi
 - Conducted a case study that reduced emissions by 41% in A-class vehicles.
 - Developed methodologies for baseline and project emission calculations.
 - Proposed government strategies and technological advancements to support emission reduction efforts.
-[View Project Details]
+[View Project Details](https://github.com/Reet521/Projects/blob/main/seminar%20report.docx)      [PPT]
 
 
