@@ -17,7 +17,7 @@ In this academic project, I developed and optimized a fuzzy logic-based automati
 - Achieved a deceleration value of 49.22 cm/s² at a speed of 63 cm/sec.
 - Gained hands-on experience in fuzzy logic applications in automotive systems.
 
-[View Project Details](projects/https://github.com/Reet521/Projects/blob/main/fuzzy%20term%20paper%5B1%5D.docx.)
+[View Project Details](projects/)fuzzy term paper[1].docx.md)
 
 ---
 
