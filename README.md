@@ -6,7 +6,7 @@ Welcome to my projects portfolio! This repository highlights some of the key pro
 
 ## ⚙️ **1. Fuzzy Logic in Automatic Braking Systems**
 **Role**: Academic Project  
-**Duration**: March 2024 - April 2024  
+**Duration**: Sep 2023 - Jan 2024  
 **Technologies**: Fuzzy Logic, Mamdani Inference System
 
 ### Overview:
@@ -21,9 +21,9 @@ In this academic project, I developed and optimized a fuzzy logic-based automati
 
 ---
 
-## 🌱 **4. Carbon Emission Reduction in New Energy Vehicles**
+## 🌱 **2. Carbon Emission Reduction in New Energy Vehicles**
 **Role**: Research Project  
-**Duration**: March 2024 - April 2024  
+**Duration**: March 2024 - May 2024  
 **Technologies**: Big Data Analysis, Emission Calculations
 
 ### Overview:
@@ -33,6 +33,6 @@ This project involved a detailed analysis of carbon emissions in new energy vehi
 - Conducted a case study that reduced emissions by 41% in A-class vehicles.
 - Developed methodologies for baseline and project emission calculations.
 - Proposed government strategies and technological advancements to support emission reduction efforts.
-
+[View Project Details]
 
 
